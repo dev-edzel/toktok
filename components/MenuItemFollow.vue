@@ -8,7 +8,7 @@
                     Username
                 </div>
                 <div class="ml-2 rounded-full bg-[#E4D6FF] h-[14px] relative">
-                    <Icon class="relative -top-[7px]" name="material-symbols:verified" color="#ffffff" size="15" />
+                    <Icon class="relative -top-[7px]" name="material-symbols:verified" color="#11abd1" size="15" />
                     
                 </div>
             </div>
