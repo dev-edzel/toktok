@@ -5,12 +5,14 @@
         <div class="lg:pl-2.5 lg:block hidden">
             <div class="flex items-center">
                 <div class="font-bold text-[14px]">
-                    Username
+                    User name
                 </div>
                 <div class="ml-2 rounded-full bg-[#E4D6FF] h-[14px] relative">
                     <Icon class="relative -top-[7px]" name="material-symbols:verified" color="#11abd1" size="15" />
-                    
                 </div>
+            </div>
+            <div class="font-light text-[12px] text-gray-600">
+                User name
             </div>
         </div>
     </div>
