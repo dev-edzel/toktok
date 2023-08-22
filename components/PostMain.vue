@@ -26,8 +26,31 @@
             </div>
 
             <div class="mt-2.5 flex">
-                <div class="relative min-h-[480px] max-h-[580px] max-w-[260px] flex items-center bg-black rounded-xl cursor-point">
+                <div class=" min-h-[480px] max-h-[580px] max-w-[260px] flex items-center bg-black rounded-xl cursor-point relative">
                     <video class="rounded-xl object-cover mx-auto h-full" src="~/assets/videos/toktok.mp4" ref="video" loop muted></video>
+                    <img class="absolute right-2 bottom-14" width="60" src="~/assets/images/logo-white.png">
+                </div>
+                <div class="relative mr-[75px]">
+                    <div class="absolute bottom-0 pl-2">
+                        <div class="pb-4 text-center">
+                            <button class="rounded-full bg-gray-200 p-2 cursor-pointer">
+                                <Icon name="mdi:heart" size="25" />
+                            </button>
+                            <span class="text-xs text-gray-800 font-semibold">69.9K</span>
+                        </div>
+                        <div class="pb-4 text-center">
+                            <button class="rounded-full bg-gray-200 p-2 cursor-pointer">
+                                <Icon name="bx:bxs-message-rounded-dots" size="25" />
+                            </button>
+                            <span class="text-xs text-gray-800 font-semibold">69.9K</span>
+                        </div>
+                        <div class="pb-4 text-center">
+                            <button class="rounded-full bg-gray-200 p-2 cursor-pointer">
+                                <Icon name="ri:share-forward-fill" size="25" />
+                            </button>
+                            <span class="text-xs text-gray-800 font-semibold">69.9K</span>
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>
