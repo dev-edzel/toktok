@@ -4,7 +4,7 @@
             <Icon class="animate-spin ml-1" name="mingcute:loading-line" size="100" color="#FFFFFF" />
         </div>
         <div>
-            <video ref="video" muted loop class="aspect-[3/4] object-cover rounded-md" src="~/assets/videos/toktok.mp4" />
+            <video ref="video" muted loop class="aspect-[3/4] object-cover rounded-md" src="~/assets/videos/toktok2.mp4" />
         </div>    
         <div class="px-1">
             <div class="text-gray-700 text-[15px] pt-1 break-words">
